@@ -4,7 +4,7 @@
 
 数据：附件fangchan——lianjia1.csv~lianjia7.csv
 
-环境：Anaconda3
+环境：anaconda3、python3.7.3
 
 python库：numpy、pandas、matplotlib、sklearn
 
